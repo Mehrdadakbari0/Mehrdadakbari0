@@ -1,7 +1,6 @@
 # 💫 About Me:
-Mehrdadakbari0
 
-
+I'm currently studying Computer Engineering and I have the privilege of being a member of the Turing team. My technical skills include proficiency in Python, front-end technologies, C++, and Node.js. Through various projects and team collaborations, I've developed a strong foundation in both software development and problem-solving. My experience spans across multiple programming paradigms and I continually seek opportunities to expand my knowledge and skills in the ever-evolving field of computer science.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehrdad_akb83h) 
 
